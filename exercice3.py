@@ -1,7 +1,7 @@
 
 def decomposer(secondes):
 
-    return
+    return "hello"
 
 if __name__ == '__main__':
     secondes = int(input("Entrer les secondes: "))
